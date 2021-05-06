@@ -38,16 +38,20 @@ font-family: cursive;
  top: 10px;   
  right: 30px;   
  width: 100%;
-  color: chartreuse;  
+  color: blueviolet;  
  cursor: pointer;   
 }
 .link {
  display: inline-block;
-    
+  padding: 10px;  
     
     
 }
-
+.link:hover {
+   background-color: cadetblue; 
+    
+    
+}
 
 
 
